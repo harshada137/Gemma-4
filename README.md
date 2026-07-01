@@ -294,14 +294,6 @@ Feel free to fork the repository and submit a pull request.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
----
-
 ## 👨‍💻 Author
 
 Developed by **Harshada Patil** as a Google Gemma 4 AI project to simplify Kubernetes troubleshooting using Generative AI.
